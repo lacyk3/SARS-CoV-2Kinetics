@@ -14,4 +14,4 @@ Contents:
 - Data used for kmeans clustering:
 - Data used for model selection:
 - Data used for final model fitting:
-- estimated individual parameter values: estimatedIndividualParameterValues.txt
+- estimated individual parameter values: estimatedIndividualParameters.txt
