@@ -2,7 +2,7 @@
 This repository contains supporting files for the results reported in "Heterogeneous SARS-CoV-2 kinetics due to variable timing and intensity of immune responses"
 
 
-Katherine Owens1, Shadisadat Esmaeili-Wellman1, and Joshua T. Schiffer1,2
+Katherine Owens (1), Shadisadat Esmaeili-Wellman (1), and Joshua T. Schiffer (1,2)
 
 
 1.	Fred Hutchinson Cancer Center, Vaccine and Infectious Diseases Division
@@ -12,6 +12,6 @@ Data analyzed in this work was accessed at [https://github.com/gradlab/SC2-kinet
 
 Contents: 
 - Data used for kmeans clustering + cluster results: NBA_6Clusters_810infections.csv
-- Data used for model selection:
+- Data used for model selection: NBA_266infections_ModelSelection.csv
 - Data used for final model fitting: NBA_1510infections_FinalFitting.csv
 - estimated individual parameter values: estimatedIndividualParameters.txt
