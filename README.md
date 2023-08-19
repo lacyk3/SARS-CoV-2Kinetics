@@ -13,5 +13,5 @@ Data analyzed in this work was accessed at [https://github.com/gradlab/SC2-kinet
 Contents: 
 - Data used for kmeans clustering:
 - Data used for model selection:
-- Data used for final model fitting:
+- Data used for final model fitting: NBA_1510infections_FinalFitting.csv
 - estimated individual parameter values: estimatedIndividualParameters.txt
