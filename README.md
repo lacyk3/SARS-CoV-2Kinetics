@@ -11,7 +11,7 @@ Katherine Owens1, Shadisadat Esmaeili-Wellman1, and Joshua T. Schiffer1,2
 Data analyzed in this work was accessed at [https://github.com/gradlab/SC2-kinetics-immune-history](https://github.com/gradlab/SC2-kinetics-immune-history).
 
 Contents: 
-- Data used for kmeans clustering + cluster results:
+- Data used for kmeans clustering + cluster results: NBA_6Clusters_810infections.csv
 - Data used for model selection:
 - Data used for final model fitting: NBA_1510infections_FinalFitting.csv
 - estimated individual parameter values: estimatedIndividualParameters.txt
