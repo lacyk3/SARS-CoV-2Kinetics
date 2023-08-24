@@ -10,10 +10,10 @@ Katherine Owens (1), Shadisadat Esmaeili-Wellman (1), and Joshua T. Schiffer (1,
 
 Data analyzed in this work was published by Hay et al. and accessed at [https://github.com/gradlab/SC2-kinetics-immune-history](https://github.com/gradlab/SC2-kinetics-immune-history).
 
-**Contents:** 
-- The EstimatedParameters folder contains the set of parameters estimated for each individual infection.
-- The Figures folder contains python notebooks used to generate panels for figures in the manuscript and supplement.
-- NBA_6Clusters_810infections.csv contains the subset of data used for k-means clustering as well as the resulting labels with 6 clusters.
-- NBA_266infections_ModelSelection.csv contains the subset of data used in preliminary model selection.
-- NBA_1510infections_FinalFitting.csv contains the data used for the final model fitting.
+## Contents: 
+- The **EstimatedParameters** folder contains the set of parameters estimated for each individual infection.
+- The **Figures** folder contains python notebooks used to generate panels for figures in the manuscript and supplement.
+- **NBA_6Clusters_810infections.csv** contains the subset of data used for k-means clustering as well as the resulting labels with 6 clusters.
+- **NBA_266infections_ModelSelection.csv** contains the subset of data used in preliminary model selection.
+- **NBA_1510infections_FinalFitting.csv** contains the data used for the final model fitting.
 
