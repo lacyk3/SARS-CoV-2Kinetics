@@ -5,9 +5,9 @@
 
 
 ## Contents: 
-- The **EstimatedParameters** folder contains the set of parameters estimated for each individual infection.
+- The **EstimatedParameters** folder contains the estimated population parameters and the set of parameters estimated for each individual infection.
 - The **Figures** folder contains python notebooks used to generate panels for figures in the manuscript and supplement.
-- **NBA_6Clusters_810infections.csv** contains the subset of data used for k-means clustering as well as the resulting labels with 6 clusters.
+- **NBA_6Clusters_768infections.csv** contains the subset of data used for k-means clustering as well as the resulting labels with 6 clusters.
 - **NBA_266infections_ModelSelection.csv** contains the subset of data used in preliminary model selection.
 - **NBA_1510infections_FinalFitting.csv** contains the data used for the final model fitting.
 
